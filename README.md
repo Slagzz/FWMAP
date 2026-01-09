@@ -52,7 +52,7 @@ cd fwmap
 npx create-react-app fwmap-app
 cd fwmap-app
 
-# Copy firmware-mapper.jsx to src/App.jsx
+# Copy App.js to src/App.js
 # Then run:
 npm start
 ```
